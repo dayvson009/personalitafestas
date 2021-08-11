@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icon/icomoon.eot?gcl0eb');
+  src:  url('../fonts/icon/icomoon.eot?gcl0eb#iefix') format('embedded-opentype'),
+    url('../fonts/icon/icomoon.ttf?gcl0eb') format('truetype'),
+    url('../fonts/icon/icomoon.woff?gcl0eb') format('woff'),
+    url('../fonts/icon/icomoon.svg?gcl0eb#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-format_shapes:before {
+  content: "\e902";
+}
+.icon-file_download:before {
+  content: "\e903";
+}
+.icon-hdr_off:before {
+  content: "\e904";
+}
+.icon-local_grocery_store:before {
+  content: "\e905";
+}
+.icon-person:before {
+  content: "\e906";
+}
+.icon-favorite:before {
+  content: "\e907";
+}
+.icon-favorite_outline:before {
+  content: "\e908";
+}
+.icon-highlight_remove:before {
+  content: "\e909";
+}
+.icon-touch_app:before {
+  content: "\e90a";
+}
+.icon-sports_esports:before {
+  content: "\e90b";
+}
+.icon-celebration:before {
+  content: "\e90c";
+}
+.icon-theater_comedy:before {
+  content: "\e90d";
+}
+.icon-child_friendly:before {
+  content: "\e90e";
+}
+.icon-auto_fix_high:before {
+  content: "\e90f";
+}
+.icon-mail:before {
+  content: "\e916";
+}
+.icon-wifi-mid:before {
+  content: "\e911";
+}
+.icon-connection-50:before {
+  content: "\e912";
+}
+.icon-battery-75:before {
+  content: "\e913";
+}
+.icon-arrow-down:before {
+  content: "\e914";
+}
+.icon-search1:before {
+  content: "\e900";
+}
+.icon-zoomin:before {
+  content: "\e901";
+}
+.icon-email:before {
+  content: "\e915";
+}
+.icon-phone:before {
+  content: "\f095";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-facebook-f:before {
+  content: "\f09a";
+}
+.icon-youtube-play:before {
+  content: "\f16a";
+}
+.icon-instagram:before {
+  content: "\f16d";
+}
+.icon-dots-three-vertical:before {
+  content: "\e910";
+}
